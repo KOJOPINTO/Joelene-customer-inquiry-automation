@@ -58,6 +58,6 @@ This project is part of my portfolio in business process automation, data analyt
 
 ## Workflow Screenshot
 
-![Customer Inquiry Automation Workflow](screenshots/customer-inquiry-workflow.png)
+![Customer Inquiry Automation Workflow](screenshots/customer%20inquiry%20automation.png)
 
 This workflow uses Google Forms, Google Sheets, Make.com, and Gmail to collect customer inquiries, send customer confirmations, and notify the business owner automatically.
