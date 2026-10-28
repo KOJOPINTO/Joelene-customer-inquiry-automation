@@ -11,7 +11,7 @@ Small businesses may handle customer inquiries manually, making it harder to ack
 I built an automated workflow that collects customer inquiries, records submissions in Google Sheets, and uses Make.com to trigger email notifications.
 
 ## Workflow
-
+The screenshot shows how Make.com connects Google Forms, Google Sheets, and Gmail to automate customer confirmations and business-owner notifications.
 1. A customer submits the online inquiry form.
 2. Google Forms records the response in Google Sheets.
 3. Make.com watches for new spreadsheet rows.
