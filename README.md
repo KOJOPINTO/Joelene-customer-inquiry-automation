@@ -55,3 +55,9 @@ The workflow was tested using sample customer submissions. Successful tests conf
 **Completed prototype — working and tested.**
 
 This project is part of my portfolio in business process automation, data analytics, and AI automation.
+
+## Workflow Screenshot
+
+![Customer Inquiry Automation Workflow](screenshots/customer-inquiry-workflow.png)
+
+This workflow uses Google Forms, Google Sheets, Make.com, and Gmail to collect customer inquiries, send customer confirmations, and notify the business owner automatically.
