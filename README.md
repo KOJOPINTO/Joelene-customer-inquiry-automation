@@ -1,6 +1,3 @@
-# Joelene-customer-inquiry-automation
-A business inquiry automation using Google Forms, Google Sheets, Make.com, and Gmail.
-
 # Customer Inquiry Management Automation
 
 A business workflow automation built with **Google Forms, Google Sheets, Make.com, and Gmail** to streamline customer inquiry handling for Joelene Enterprise.
